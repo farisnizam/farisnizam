@@ -8,7 +8,7 @@ Graduate in computer science with experience working as a front-end developer fo
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [farisnizamdev@gmail.com](mailto:farisnizamdev@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Python
 
 ### Skills
 

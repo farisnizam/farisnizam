@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Graduate in computer science with experience working as a front-end developer for web and mobile development teams. I'm about to complete my Bachelor's degree in IT Network while also working as Software Engineer. Allow me to work as part of your team to solve complex and challenging problems.
+I am a Software Engineer with industry experience building web and mobile applications. I specialize in Javascript/Typescript and have professional experience working with PERN Stack. Allow me to work as part of your team to solve complex and challenging problems.
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [farisnizamdev@gmail.com](mailto:farisnizamdev@gmail.com)

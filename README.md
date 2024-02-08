@@ -8,7 +8,6 @@ I am a Software Engineer with industry experience building web and mobile applic
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [farisnizamdev@gmail.com](mailto:farisnizamdev@gmail.com)
-* 🧠  I'm learning Python
 
 ### Skills
 

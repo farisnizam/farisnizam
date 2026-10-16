@@ -1,6 +1,6 @@
 ### Hi, I'm Faris 👋
 
-Full-stack engineer (React · TypeScript · Python) based in Malaysia. I build **AI-first**: Claude Code and Copilot are my main development tools. By day I build and review components for a no-code interactive content editor at [Dot.vu](https://dot.vu), where I'm the final reviewer for 250+ AI-generated components.
+Full-stack engineer (React · TypeScript · Python) based in Malaysia. I build **AI-first**: Claude Code and Copilot are my main development tools. By day I build and review components for a no-code interactive content editor at [Dot.vu](https://dot.vu), where I'm the final reviewer for 350+ AI-generated components.
 
 **What I'm building on the side**
 

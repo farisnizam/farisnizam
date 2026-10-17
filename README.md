@@ -4,7 +4,7 @@ Full-stack engineer (React · TypeScript · Python) based in Malaysia. I build *
 
 **What I'm building on the side**
 
-- 🎬 **Content Editor Engine**: an agent-operated pipeline that turns a raw talking-head recording into a captioned, loudness-mastered vertical video (WhisperX · Remotion · FFmpeg · MediaPipe), with a browser waveform editor for human review. My hands-on editing time for a 1-minute video went from ~1.5 hours to ~15 minutes. 
+- 🎬 **Content Editor Engine**: an agent-operated pipeline that turns a raw talking-head recording into a captioned, loudness-mastered vertical video (WhisperX · Remotion · FFmpeg · MediaPipe), with a browser waveform editor for human review. A 1-minute video that took me ~1.5 hours to edit by hand now takes ~12 minutes of unattended processing plus a few minutes of review. → [case study](https://github.com/farisnizam/content-engine-showcase) *(source is private; 2-min demo video coming soon)*
 - 🤖 **AI Lead Follow-up Agent**: Claude tool use with a bounded action set, deterministic guardrails, a full decision audit trail and human-in-the-loop escalation (FastAPI · PostgreSQL · 60 tests). → [repo](https://github.com/farisnizam/ai-lead-followup-agent)
 - 🌐 **[farisnizam.com](https://farisnizam.com)**: a live, mobile-first Next.js site with 164 Playwright tests (Chromium + WebKit) and cookieless analytics.
 
